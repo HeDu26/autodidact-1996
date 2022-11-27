@@ -1,17 +1,5 @@
 # Curso de _Git & GitHub_
 
-Hola estoy a nada de dominar las herramientas básicas para empezar a trabajar
+**Importante**
 
-- Estoy listo
-
-- Seguimos haciendo pruebas
-
-- Este es otro cambio
-
-- Agregando otro comentario
-
-- Comentario 25 nov 2022
-
-- comentario nov 26 2022
-
-- Comentario 27 nov 2022
+- Cuando se creen nuevas ramas, hacerlo desde la principal para no heredar archivos de otras ramas.
