@@ -4,4 +4,4 @@
 
 - No es necesario tener las ramas creadas en el remoto, tenerlas de manera local es suficiente.
 
-- Para poder modificar o agregar cambios al último commit si se olvido algo, se debe hacer **antes de hacer un push**. O sea, estando de manera local.
+- Para poder modificar o agregar cambios al último commit, se debe hacer **antes de hacer un push**. O sea, estando de manera local.
