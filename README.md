@@ -7,7 +7,3 @@
 - Para poder modificar o agregar **cambios** al último commit, se debe hacer **antes de hacer un push**. O sea, estando de manera local.
 
 - **OJO 👀** Solo ejecutar push cuando estás seguro de tu cambio.
-
-- otro punto
-
-- otro punto
