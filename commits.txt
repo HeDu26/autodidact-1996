@@ -1,0 +1,228 @@
+commit e45908f3ef461f8d34651c734c56120d4bd3c843
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 13:07:10 2022 -0600
+
+    Eliminando commits
+
+commit 9c1373bbf4ca04f7ef4ce0ab843f92117f7c1186
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:52:48 2022 -0600
+
+    Este es un cambio oficial
+
+commit d713d2eee858c3e283cb3da9d472a58017176445
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:49:57 2022 -0600
+
+    Nuevo mensaje para el último commit
+
+commit 0f2a3ff93a167ae3c5fc67e6337988cd093df0d5
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:46:24 2022 -0600
+
+    Eliminando html
+
+commit 95abbba627d1205012613daabe90f04d18ab72e3
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:42:24 2022 -0600
+
+    Agregando párrafo y contenido a README.md
+
+commit f4373374c1265983db786171378730ffc51a35a2
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:34:51 2022 -0600
+
+    Resolviendo conflictos con los commit
+
+commit cfa3cb31cc65db6d6433765e7863a182ff897247
+Merge: b955232 afb7946
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:30:53 2022 -0600
+
+    Comprendiendo los cambios del commit
+
+commit b955232b2e9e19d21e3c0631b2dd6590573cf785
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:24:16 2022 -0600
+
+    nuevo mensaje para el último commit
+
+commit afb794616cabed52b0d5fe974217bf9ef4d678b3
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:24:16 2022 -0600
+
+    Nuevo cambio
+
+commit b7e07ca7165060f6e07d83a68be9325585764667
+Merge: 0518f9c 2d78bf0
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 12:19:13 2022 -0600
+
+    Merge branch 'main' of https://github.com/HeDu26/autodidact-1996
+
+commit 0518f9c74db5db8b78959ba34fa11a8fcd966490
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 10:59:50 2022 -0600
+
+    Agregando estaciones del año con fecha
+
+commit 2d78bf04d22191a0c35e9839000887e82794ae94
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 10:59:50 2022 -0600
+
+    Nuevo commit
+
+commit e1793ea0e7a070ffa8b3b5893eab4ad628939d1e
+Merge: e1964df ba6e25c
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 10:25:51 2022 -0600
+
+    Resolviendo conflicto marge main html en el documento index.html
+
+commit e1964df134c0ca1e6d54bd1459efda1b22962e39
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 10:20:32 2022 -0600
+
+    Este es una modificación desde la rama principal
+
+commit ba6e25c73e899b86072747b98e2bdef08432f33e
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Tue Dec 6 10:19:08 2022 -0600
+
+    Modifición desde rama html
+
+commit a3d2bd65b381c0ef5fb0f570fa7a13476c966dda
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 17:15:41 2022 -0600
+
+    Agregando estaciones del año
+
+commit 716dcf914471e02056f96065cf30780839d19ec2
+Merge: eca1e96 65936d7
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 17:10:01 2022 -0600
+
+    Resolviendo conflicto merge main/html en el archivo index.html
+
+commit 65936d7389fc9d2987afab966c0bd5bf18baea3b
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 16:56:18 2022 -0600
+
+    Agregando index.js a index.html
+
+commit eca1e96eaafd5d17798d582d6c58fc0dc39ca556
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 16:52:58 2022 -0600
+
+    agregando style.css en el index.html
+
+commit 3635592c034c089ad5cb9a114e3e5affc5bc7e89
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 12:58:56 2022 -0600
+
+    un comentario nuevo
+
+commit ce809ed44b4cf38cccad538cc81c9f01d4a68c60
+Merge: 5acac00 6242757
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 12:42:42 2022 -0600
+
+    Merge branch 'js'
+
+commit 5acac0033d0ca0c6f028de6fb6ba4ba5d1ebbce8
+Merge: 0985ab3 3fc9e95
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 12:41:38 2022 -0600
+
+    Merge branch 'css'
+
+commit 0985ab3ca1cd7549b7ae8f8b350793d907f5ab02
+Merge: 0ca55eb d97c406
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 12:39:43 2022 -0600
+
+    Merge branch 'hmtl'
+
+commit 62427571b054281183759fac5613a9d3dc407355
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 12:30:27 2022 -0600
+
+    Creando index.js
+
+commit 0ca55eb9fae5a6b18320079c1e1d9dd911a20051
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 12:25:13 2022 -0600
+
+    Notas
+
+commit 3fc9e955bb343894d320a515be1f132ca815701a
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 11:31:31 2022 -0600
+
+    creando style.css
+
+commit d97c406542d94db0089cb7ad6b3689aa0c39db54
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 11:21:09 2022 -0600
+
+    Creando archivo index.html
+
+commit a62abde14af8973ec28025351d76be3833f09ccc
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 10:31:31 2022 -0600
+
+    ignorando archivos
+
+commit 18d812650839e88ab0bc806e617f6a23eeefe878
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sun Nov 27 10:19:10 2022 -0600
+
+    otra actualización
+
+commit e8ca58153640e184fb9c6ae01237528b82eaf689
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Sat Nov 26 09:55:20 2022 -0600
+
+    actualización :3
+
+commit bcd7fe15ca6aed29bb03e00cf916729b294864bc
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Fri Nov 25 12:36:12 2022 -0600
+
+    Solo para recordar procedimiento jeje
+
+commit b721d2baf727eb5f46086450f7c97360f29814a6
+Author: HeDu26 <118402474+HeDu26@users.noreply.github.com>
+Date:   Thu Nov 24 16:36:17 2022 -0600
+
+    Creando licencia del repositorio
+
+commit 2bcab9aad44c3767b39ce0d2a45311cb70a2958e
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Thu Nov 24 15:38:37 2022 -0600
+
+    Cambio realizado
+
+commit 421a5bd021ac9b6eb8180c1c5237f941db7ea543
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Thu Nov 24 14:08:18 2022 -0600
+
+    último cambio
+
+commit f8b87535f109016b9c231cc27409a5de78885e75
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Thu Nov 24 14:06:31 2022 -0600
+
+    Este es otro cambio
+
+commit 86e5dd3a796628a573b0f6fe8f22209abe2062c1
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Wed Nov 23 15:39:16 2022 -0600
+
+    Agregando comentario inicial al README
+
+commit ac8bf141e5f414fc612f718646e0e63969f7b607
+Author: HeDu26 <hec.itp@hotmail.com>
+Date:   Wed Nov 23 15:33:24 2022 -0600
+
+    Primer commit

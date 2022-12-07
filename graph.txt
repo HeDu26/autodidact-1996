@@ -1,0 +1,50 @@
+* e45908f Eliminando commits
+* 9c1373b Este es un cambio oficial
+* d713d2e Nuevo mensaje para el último commit
+* 0f2a3ff Eliminando html
+* 95abbba Agregando párrafo y contenido a README.md
+* f437337 Resolviendo conflictos con los commit
+*   cfa3cb3 Comprendiendo los cambios del commit
+|\  
+| * afb7946 Nuevo cambio
+* | b955232 nuevo mensaje para el último commit
+|/  
+*   b7e07ca Merge branch 'main' of https://github.com/HeDu26/autodidact-1996
+|\  
+| * 2d78bf0 Nuevo commit
+* | 0518f9c Agregando estaciones del año con fecha
+|/  
+*   e1793ea Resolviendo conflicto marge main html en el documento index.html
+|\  
+| * ba6e25c Modifición desde rama html
+* | e1964df Este es una modificación desde la rama principal
+* | a3d2bd6 Agregando estaciones del año
+* | 716dcf9 Resolviendo conflicto merge main/html en el archivo index.html
+|\| 
+| * 65936d7 Agregando index.js a index.html
+* | eca1e96 agregando style.css en el index.html
+* | 3635592 un comentario nuevo
+* |   ce809ed Merge branch 'js'
+|\ \  
+| * | 6242757 Creando index.js
+* | |   5acac00 Merge branch 'css'
+|\ \ \  
+| * | | 3fc9e95 creando style.css
+| | |/  
+| |/|   
+* | | 0985ab3 Merge branch 'hmtl'
+|\| | 
+| * | d97c406 Creando archivo index.html
+| |/  
+* / 0ca55eb Notas
+|/  
+* a62abde ignorando archivos
+* 18d8126 otra actualización
+* e8ca581 actualización :3
+* bcd7fe1 Solo para recordar procedimiento jeje
+* b721d2b Creando licencia del repositorio
+* 2bcab9a Cambio realizado
+* 421a5bd último cambio
+* f8b8753 Este es otro cambio
+* 86e5dd3 Agregando comentario inicial al README
+* ac8bf14 Primer commit
