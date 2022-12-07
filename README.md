@@ -8,6 +8,12 @@
 
 - **OJO 👀** Solo ejecutar push cuando estás seguro de tu cambio.
 
-```bash
+## Reseteo de historial
+
+```properties
+# borra HEAD y Staging
+git reset --mixed
+
+# borra todo: HEAD, Staging y Working Directory
 git reset --hard
 ```
