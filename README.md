@@ -17,3 +17,7 @@ git reset --mixed
 # borra todo: HEAD, Staging y Working Directory
 git reset --hard
 ```
+
+## Etiquetas
+
+Este commit es para oficializar nuestra versión **1.0.0**
