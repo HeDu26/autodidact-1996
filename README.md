@@ -21,3 +21,11 @@ git reset --hard
 ## Etiquetas
 
 Este commit es para oficializar nuestra versión **1.0.0**
+
+```properties
+# sincronizando la etiqueta del repositorio local al remoto
+git add .
+git  tag v1.0.0
+git commit -m "v1.0.0"
+git push origin numero-versión
+```
